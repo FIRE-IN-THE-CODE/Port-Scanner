@@ -1,5 +1,5 @@
 # Port-Scanner
-A simple port scanner that can probe ports of a firewall or router.
+This program is a simple port scanner that can probe ports of a firewall or router.
 
 Note: It is very likely that using this on websites will result on false negatives of ports being closed.
 
