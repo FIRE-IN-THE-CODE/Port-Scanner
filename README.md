@@ -6,10 +6,18 @@
 <p>
 This program is a simple port scanner that can probe ports of a firewall or router.
 
-<b>Note:</b> Using this on websites is likely to result on false negatives of ports being closed.
+<b>Note:</b> Using this on websites is may result on false negatives of ports being closed.
 </p>
+
 ## Requirements
 Python3 needs to be installed.
 
+
 ## How to use
-On Linux, open a terminal session and execute the script with "python3 port_scanner.py". On Windows, open the script as a executable using Python.
+On Linux, open a terminal session and execute the script with "python3 port_scanner.py". On Windows, open the script 
+as a executable using Python.
+
+
+## Disclaimer
+This script was created with the intention to be used on testing the security of owned devices or sites with permission 
+from the site owners to conduct a test. The author takes no responsibility if this script is put to other uses.
