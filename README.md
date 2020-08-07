@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3-blue)
 
 <p>
-This program is a simple port scanner that can probe ports of a firewall or router.
+A simple port scanner that can probe ports of a firewall or device.
 
 <b>Note:</b> Using this on websites is may result on false negatives of ports being closed.
 </p>
